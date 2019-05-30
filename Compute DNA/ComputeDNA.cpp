@@ -1,9 +1,7 @@
 
-/* Name:				Fawaz Bukhowa
- * Student ID:	2267875
- * CU Email:		bukho100@mail.chapman.edu
- * Course:			CPSC 350-02
- * Assignment:	#1
+/* Developer:				Fawaz Bukhowa
+ * Course:				CPSC 350-02
+ * Project:				Compute DNA
  */
 
 #include <iostream>
@@ -331,3 +329,5 @@ int main(int argc, char *argv[]){
         runAgainCheck();
 	return 0;
 }
+
+
