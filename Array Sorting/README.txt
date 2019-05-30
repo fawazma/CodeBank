@@ -1,7 +1,7 @@
 ====================================================
 
-Name: Fawaz Bukhowa
-Work: Array Sorting
+Developer: Fawaz Bukhowa
+Project: Array Sorting
 
 ====================================================
 
