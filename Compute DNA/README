@@ -18,7 +18,7 @@ Instructions:
 g++ *.cpp
 
 2) Run:
-./a.out
+./a.out DNA.txt
 
 Compress: tar -cvzf filename.tgz filename
 ====================================================
