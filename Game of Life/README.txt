@@ -1,10 +1,8 @@
 ====================================================
 
-Name: Fawaz Bukhowa
-Student ID: 2267875
-CU Email: bukho100@mail.chapman.edu
+Developer: Fawaz Bukhowa
 Course: CPSC 350-02
-Assignment: #2 Game of Life
+Project: Game of Life
 
 ====================================================
 
