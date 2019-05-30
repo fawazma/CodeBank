@@ -1,0 +1,24 @@
+====================================================
+
+Developer: Fawaz Bukhowa
+Course: CPSC 350-02
+Project: Compute DNA
+
+====================================================
+
+Source Files:
+ComputeDNA.cpp
+DNA.txt
+
+====================================================
+
+Instructions:
+
+1) Compile:
+g++ *.cpp
+
+2) Run:
+./a.out
+
+Compress: tar -cvzf filename.tgz filename
+====================================================
