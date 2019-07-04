@@ -1,6 +1,7 @@
 ====================================================
 
-Name: Fawaz Bukhowa
+Developer: Fawaz Bukhowa
+Course: CPSC 350-02
 Project: Syntax Checker
 
 ====================================================
