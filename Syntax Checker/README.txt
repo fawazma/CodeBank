@@ -1,10 +1,7 @@
 ====================================================
 
 Name: Fawaz Bukhowa
-Student ID: 2267875
-CU Email: bukho100@mail.chapman.edu
-Course: CPSC 350-02
-Assignment: #3
+Project: Syntax Checker
 
 ====================================================
 
