@@ -1,2 +1,2 @@
 # CodeBank
-In this repository, I'm sharing my workfiles. 
+In this repository, you'll find some of my shared projects.
