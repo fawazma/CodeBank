@@ -2,7 +2,7 @@
 
 Developer: Fawaz Bukhowa
 Course: CPSC 350-02
-Assignment: #5
+Project: Student & Faculty Records Database
 
 ====================================================
 
