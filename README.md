@@ -1,2 +1,2 @@
 # CodeBank
-In this repository, you'll have projects developed mostly in C++
+In this repository, you'll find the code of multiple programs developed in C++
