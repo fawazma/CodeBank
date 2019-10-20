@@ -1,6 +1,6 @@
 # University Registrar
 
-## Developer:
+#### Developer:
 Fawaz Bukhowa
 
 #### Course: 
