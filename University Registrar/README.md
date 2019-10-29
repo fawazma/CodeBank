@@ -1,31 +1,29 @@
 # University Registrar
 
-#### Developer:
+### Developer:
 Fawaz Bukhowa
 
-#### Course: 
-CPSC 350-02<br/>
-#### Assignment:<br/>
-#4
+### Course: 
+CPSC 350-02
 
-## Source Files:
-- RegistrarOffice.cpp<br/>
-- Processor.cpp<br/>
-- Processor.h<br/>
-- Student.cpp<br/>
-- Student.h<br/>
-- ListNode.h<br/>
-- Queue.h<br/>
-- input.txt<br/>
+### Source Files:
+- RegistrarOffice.cpp
+- Processor.cpp
+- Processor.h
+- Student.cpp
+- Student.h
+- ListNode.h
+- Queue.h
+- input.txt
 - README.md
 
-## Instructions:
+### Instructions:
 
-#### Compile:
+- Compile:
 ```
 g++ -std=c++11  Student.cpp Processor.cpp   RegistrarOffice.cpp -o RegistrarOffice.o
 ```
-#### Run:
+- Run:
 ```
 ./RegistrarOffice.o input.txt
 ```
