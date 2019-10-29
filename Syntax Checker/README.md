@@ -1,13 +1,12 @@
 # Syntax Checker
 
-#### Developer:
+### Developer:
 Fawaz Bukhowa
-#### Course: 
-CPSC 350-02
-#### Project: 
-Syntax Checker
 
-## Source Files:
+### Course: 
+CPSC 350-02
+
+### Source Files:
 GenStack.cpp<br/>
 GenStack.h<br/>
 main.cpp<br/>
@@ -16,7 +15,7 @@ SyntaxChecker.h<br/>
 test.java<br/>
 README.md
 
-## Instructions:
+### Instructions:
 
 - Compile:
 ```
