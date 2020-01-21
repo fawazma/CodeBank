@@ -1,4 +1,6 @@
-# Developer: 
+# Array Sorting
+
+### Developer: 
 Fawaz Bukhowa
 
 ### Project:
